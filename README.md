@@ -1,9 +1,11 @@
 <a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=qynklee&show_icons=true&count_private=true&theme=github_dark&layout=compact"/>
 </a>
+<!--
 <a>
-<img src="https://streak-stats.demolab.com/?user=qynklee&theme=github_dark&layout=compact"/>
+<img src="https://streak-stats.demolab.com/?user=qynklee&theme=github_dark&layout=compact"/> 
 </a>
+-->
 <a>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qynklee&theme=github_dark"/>
 </a>
