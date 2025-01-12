@@ -4,7 +4,7 @@
 </a>
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qynklee&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qynklee&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qynklee&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qynklee&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qynklee&theme=github_dark) 
